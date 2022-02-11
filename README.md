@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **itaji.1999@gamil.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
