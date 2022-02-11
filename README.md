@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **react and aeroplanes**
 
-- 📫 How to reach me **itaji.1999@gamil.com**
+- 📫 How to reach me **itaji.1999@gmail.com**
 
 <p align="left">
 </p>
