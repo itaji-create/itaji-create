@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Itaji</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/itaji-create/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itaji-create&show_icons=true)
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaji-create&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itaji-create&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 - 💬 Ask me about **react and aeroplanes**
 
