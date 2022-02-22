@@ -6,6 +6,8 @@ Tenho 23 anos, nasci no interior do Maranhão, mas moro em João Pessoa na Para�
 
 - 🌱 Atualmente estou aprendendo **SQL and NoSQL**
 
+- 🎮 Sou team PlayStation, mas atualmente jogo mais jogos mobile.
+
 - 💬 Pergunte-me sobre **JavaScript e Monomotores**
 
 <p align="left">
