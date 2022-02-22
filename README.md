@@ -7,7 +7,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itaji-create&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-- 💬 Ask me about **react and aeroplanes**
+- 💬 Ask me about **JavaScript and aeroplanes**
 
 - 📫 How to reach me **itaji.1999@gmail.com**
 
