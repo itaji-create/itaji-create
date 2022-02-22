@@ -1,22 +1,17 @@
-## 👋 Hello! Welcome to my Github profile.
-### My name is Itaji
+ <h1 align="left">Itaji de Carvalho</h1>
 
-<div>
-  <a href="https://github.com/seu-usuário-aqui">
-  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaji-create&layout=compact&langs_count=7&theme=dracula"/>
-  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=itaji-create&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## 👋 Hello Devs! Welcome to my Github profile.
+
+Tenho 23 anos, nasci no interior do Maranhão, mas moro em João Pessoa na Paraíba. Sou apaixonado por programação, aviação e meu estilo musical favorito é o rock com destaque para Pink Floyd. Estudo na escola de programação Trybe, estou cursando o módulo de Desenvolvimento Back-end e já conclui os módulos de Fundamentos do Desenvolvimento Web e Desenvolvimento Front-end e o que mais amo na programação é poder sempre estar aprendendo e me desenvolvendo.
 
 - 🌱 Atualmente estou aprendendo **SQL and NoSQL**
 
-- 💬 Ask me about **JavaScript and aeroplanes**
-
-- 📫 How to reach me **itaji.1999@gmail.com**
+- 💬 Pergunte-me sobre **JavaScript e Monomotores**
 
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### 🖥️ Tecnologias e Ferramentas: 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -45,5 +40,11 @@
   <a href="https://www.linkedin.com/in/itaji-carvalho" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"             target="_blank"
     >
-  </a>   
+  </a>
+</div>
+
+<div>
+  <a href="https://github.com/seu-usuário-aqui">
+  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaji-create&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=itaji-create&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
