@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Itaji</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+## 👋 Hello! Welcome to my Github profile.
+### My name is Itaji
 
 <div>
   <a href="https://github.com/seu-usuário-aqui">
