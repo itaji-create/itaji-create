@@ -1,4 +1,4 @@
- <img align="right" width="250px" style="margin-top:-20px" src="./image/octopus.png">
+ <img align="right" width="250px" style="margin-top:-30px" src="./image/octopus.png">
 
  <h1 align="left">Itaji de Carvalho</h1>
 
