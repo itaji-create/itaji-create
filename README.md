@@ -1,5 +1,6 @@
- <img align="right" width="250px" style="margin-top:-70px" src="./image/octopus.png">
  <h1 align="left">Itaji de Carvalho</h1>
+ 
+ <img align="right" width="250px" style="margin-top:-70px" src="./image/octopus.png">
 
 ## 👋 Hello Devs! Welcome to my Github profile.
 
