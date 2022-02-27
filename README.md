@@ -1,4 +1,4 @@
- <img align="right" width="250px" style="margin-top:-20px" src="../image/octopus.png">
+ <img align="right" width="250px" style="margin-top:-20px" src="./image/octopus.png">
 
 </br>
 </br>
