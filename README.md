@@ -1,5 +1,4 @@
  <img align="right" width="250px" style="margin-top:-70px" src="./image/octopus.png">
-
  <h1 align="left">Itaji de Carvalho</h1>
 
 ## 👋 Hello Devs! Welcome to my Github profile.
@@ -11,9 +10,6 @@ Tenho 23 anos, nasci no interior do Maranhão, mas moro em João Pessoa na Para�
 - 🎮 Sou team PlayStation, mas atualmente jogo mais jogos mobile.
 
 - 💬 Pergunte-me sobre **JavaScript e Monomotores**
-
-<p align="left">
-</p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <p align="left">
