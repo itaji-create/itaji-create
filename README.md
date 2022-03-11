@@ -4,11 +4,11 @@
 
 Tenho 23 anos, nasci no interior do Maranhão, mas moro em João Pessoa na Paraíba. Sou apaixonado por programação, aviação e meu estilo musical favorito é o rock com destaque para Pink Floyd. Estudo na escola de programação Trybe, estou cursando o módulo de Desenvolvimento Back-end e já conclui os módulos de Fundamentos do Desenvolvimento Web e Desenvolvimento Front-end e o que mais amo na programação é poder sempre estar aprendendo e me desenvolvendo.
 
-- 🌱 Atualmente estou aprendendo **SQL and NoSQL**
+- 🌱 Atualmente estou aprendendo **Node.js**
 
 - 🎮 Sou team PlayStation, mas atualmente jogo mais jogos mobile.
 
-- 💬 Pergunte-me sobre **JavaScript e Monomotores**
+- 💬 Pergunte-me sobre **JavaScript**
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <p align="left">
