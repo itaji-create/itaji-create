@@ -36,9 +36,10 @@ Tenho 23 anos, nasci no interior do Maranhão, mas moro em João Pessoa na Para�
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
    <a href="https://www.mysql.com/support/supportedplatforms/database.html" target="_blank">
-     <img align="center" alt="Ju-Msql" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"></a>
+     <img alt="Msql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+  </a>
   <a href="https://nodejs.org/en/docs/" target="_blank">
-    <img align="center" alt="Node" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+    <img alt="Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   </a>
 </p>
   
