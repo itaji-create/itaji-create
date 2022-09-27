@@ -2,13 +2,8 @@
 
 <img align="right" width="250px" src="./image/octopus.png">
 
-Tenho 23 anos, nasci no interior do Maranhão, mas moro em João Pessoa na Paraíba. Sou apaixonado por programação, aviação e meu estilo musical favorito é o rock com destaque para Pink Floyd. Estudo na escola de programação Trybe, estou cursando o módulo de Desenvolvimento Back-end e já conclui os módulos de Fundamentos do Desenvolvimento Web e Desenvolvimento Front-end e o que mais amo na programação é poder sempre estar me desafiando.
+Olá, sou o Itaji, tenho 23 anos e moro em João Pessoa - PB, onde estudei Línguas Estrangeiras Aplicadas às Negociações Internacionais na UFPB durante um ano. Na faculdade tiver um maior contato com a área de tecnologia e então comecei a estudar como autodidata conteúdos de programação até que encontrei a escola de programação Trybe, em que tive um ótimo alinhamento cultural que me ajudou a descobrir minha paixão por programação. Atualmente estou concluindo o curso que durou pouco mais de 1 ano em que fiz mais de 30 projetos back, front e full-stack.
 
-- 🌱 Atualmente estou aprendendo **MongoDb**
-
-- 🎮 Me interesso por jogos mobile.
-
-- 💬 Pergunte-me sobre **JavaScript**
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <p align="left">
