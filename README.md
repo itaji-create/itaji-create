@@ -45,7 +45,7 @@ Olá, sou o Itaji, tenho 23 anos e moro em João Pessoa - PB, onde cursei Língu
 >
 </a>
 <a href="ctt.itaji.carvalho@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"             target="_blank"
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
 >
 </a>
 
