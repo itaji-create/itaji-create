@@ -2,7 +2,7 @@
 
 <img align="right" width="250px" src="./image/octopus.png">
 
-Olá, sou o Itaji, tenho 23 anos e moro em João Pessoa - PB, onde estudei Línguas Estrangeiras Aplicadas às Negociações Internacionais na UFPB durante um ano. Na faculdade tiver um maior contato com a área de tecnologia e então comecei a estudar como autodidata conteúdos de programação até que encontrei a escola de programação Trybe, em que tive um ótimo alinhamento cultural que me ajudou a descobrir minha paixão por programação. Atualmente estou concluindo o curso que durou pouco mais de 1 ano em que fiz mais de 30 projetos back, front e full-stack.
+Olá, sou o Itaji, tenho 23 anos e moro em João Pessoa - PB, onde cursei Línguas Estrangeiras Aplicadas às Negociações Internacionais, na UFPB. Na faculdade tive um maior contato com a área de tecnologia até que encontrei a escola de programação Trybe, em que tive um ótimo alinhamento cultural que me ajudou a descobrir minha paixão por programação. Atualmente estou concluindo o curso que durou pouco mais de 1 ano em que fiz mais de 30 projetos back, front e full-stack.
 
 
 ### 🖥️ Tecnologias e Ferramentas: 
