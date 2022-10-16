@@ -49,7 +49,7 @@ Olá, sou o Itaji, tenho 23 anos e moro em João Pessoa - PB, onde cursei Língu
 >
 </a>
 
-<br />
+<br>
 
 <div>
   <a href="https://github.com/itaji-create">
