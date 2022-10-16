@@ -37,8 +37,10 @@ Olá, sou o Itaji, tenho 23 anos e moro em João Pessoa - PB, onde cursei Língu
     <img alt="Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   </a>
 </p>
+
 <br>
 <br>
+
 ### Contatos:
 
 <a href="https://www.linkedin.com/in/itaji-carvalho" target="_blank">
