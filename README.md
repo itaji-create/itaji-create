@@ -48,9 +48,10 @@ Olá, sou o Itaji, tenho 23 anos e moro em João Pessoa - PB, onde cursei Língu
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
 >
 </a>
-
 <br>
-
+<br>
+<br>
+<br>
 <div>
   <a href="https://github.com/itaji-create">
   <img width="350em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaji-create&layout=compact&locale=pt-br&langs_count=7&theme=dracula"/>
