@@ -2,7 +2,7 @@
 
 <!-- <img align="right" width="250px" src="./image/octopus.png"> -->
 
-Olá, sou o Itaji, tenho 23 anos e moro em João Pessoa - PB. Recentemente me formei no curso de Desenvolvedor Web de Software da Trybe que durou mais de 1 ano em que fiz mais de 30 projetos back, front e full-stack. Aqui você vai encontrar os principais projetos desenvolvidos por mim durante essa jornada.
+Olá, sou o Itaji, tenho 23 anos e moro em João Pessoa - PB. Recentemente me formei no curso de Desenvolvedor Web de Software da Trybe que durou mais de 1 ano em que fiz mais de 30 projetos back, front e full-stack. Atualmente estou cursando a faculdade de Sistemas para Internet na UNIESP. Aqui você vai encontrar os principais projetos desenvolvidos por mim durante essa jornada.
 
 <br>
 
